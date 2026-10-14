@@ -1,7 +1,7 @@
 
 # Assalamu Alaikum! 👋🌸
 
-I'm Afrin, a Botany undergraduate and an aspiring web developer from Bangladesh.
+I'm Foyjun Nesa Afrin, a Botany undergraduate and an aspiring web developer from Bangladesh.
 
 ## 💫 About Me
 - 🔭 I'm building web development projects and improving my coding skills.
